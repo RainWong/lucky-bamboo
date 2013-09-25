@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:oracle:thin:@172.30.254.230:1521:DEV1
+user = weberp_sim0418
+password = sim0418
+devMode = true
