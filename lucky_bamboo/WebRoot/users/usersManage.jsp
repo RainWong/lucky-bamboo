@@ -9,6 +9,8 @@
 	<link rel="stylesheet" type="text/css" href="${path}/resources/webui/demo.css">
 	<script type="text/javascript" src="${path}/resources/webui/jquery.min.js"></script>
 	<script type="text/javascript" src="${path}/resources/webui/jquery.easyui.min.js"></script>
+	<script type="text/javascript" src="${path}/resources/webui/locale/easyui-lang-zh_CN.js" 
+	        mce_src="${path}/resources/webui/locale/easyui-lang-zh_CN.js"></script>
 </head>
 <body>
     <h2>User Management</h2>
